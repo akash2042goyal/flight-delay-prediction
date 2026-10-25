@@ -84,6 +84,8 @@ Compared on **MAE, RMSE and R²**. The best model is chosen by the lowest RMSE.
 
 ## Dashboard
 
+**Live demo:** [https://akash2042goyal.github.io/flight-delay-prediction/](https://akash2042goyal.github.io/flight-delay-prediction/)
+
 The last section of the script generates `flight_delay_website.html`, a self-contained dashboard (no server needed) with six sections:
 
 1. **Overview:** headline numbers and the best models
